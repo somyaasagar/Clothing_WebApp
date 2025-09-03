@@ -1,5 +1,4 @@
-# Fashion MNIST Classification using Neural Network
-
+# Fashion MNIST Classification
 Classify apparel images from the Fashion-MNIST dataset using a custom-built fully connected neural network in PyTorch.
 
 ## Features
