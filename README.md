@@ -3,10 +3,10 @@
 Classify apparel images from the Fashion-MNIST dataset using a custom-built fully connected neural network in PyTorch.
 
 ## Features
-- ⚡ Multi-class image classification  
-- ⚡ Custom fully connected neural network (no CNNs)  
-- ⚡ Fashion-MNIST dataset with 10 apparel categories  
-- ⚡ Implemented end-to-end in PyTorch  
+-  Multi-class image classification  
+-  Custom fully connected neural network (no CNNs)  
+-  Fashion-MNIST dataset with 10 apparel categories  
+-  Implemented end-to-end in PyTorch  
 
 ## Table of Contents
 - [Introduction](#introduction) 
